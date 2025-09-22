@@ -23,4 +23,4 @@ A collection of gdscript files used in my Pac Man game!
 
 - **Death Screen**
   
-![RatDeath](https://i.imgur.com/Ayk98QM.png)
+![RatDeath](https://i.imgur.com/8JkOEVH.png)
