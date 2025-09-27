@@ -1,5 +1,5 @@
 # Pac-Man_Game_Scripts
-A collection of gdscript files used in my Pac Man game!
+A collection of gdscript files used in my Pac Man game, complete with character controls, enemy navigation and AI, object behaviors, and more.
 
 ## Features  
 - **Modular Power-Up System**: All power-ups (speed, magnet, teleport, eat) are handled through a SignalBus (autoloaded singleton), making them easy to modify, extend, or swap out without breaking the rest of the game.
